@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/logotipo_strengthen_provisional.png" alt="Logo provisional de Strengthen" width="140">
+<img src="assets/logotipo_fitu_provisional.png" alt="Logo provisional de FitU" width="140">
 
-# Strengthen
+# FitU
 
 ## Tu entrenamiento, en tus manos
  
@@ -14,9 +14,9 @@ Una app que reinventa la experiencia de ir al gimnasio, y centraliza tu experien
  
 ## Sobre el proyecto
  
-**Strengthen** es una aplicación pensada para una cadena de gimnasios que busca digitalizar y centralizar todo lo que un usuario necesita durante su entrenamiento.
+**FitU** es una aplicación pensada para una cadena de gimnasios que busca digitalizar y centralizar todo lo que un usuario necesita durante su entrenamiento.
  
-Ir al gimnasio a menudo implica pequeñas fricciones: no saber dónde está una máquina, esperar sin saber cuánto le queda a otra persona, improvisar la rutina del día o llevar el control de la dieta en otra app. Strengthen reúne todo eso en un único lugar, con un diseño moderno y un toque de gamificación que hace que entrenar sea también un juego.
+Ir al gimnasio a menudo implica pequeñas fricciones: no saber dónde está una máquina, esperar sin saber cuánto le queda a otra persona, improvisar la rutina del día o llevar el control de la dieta en otra app. FitU reúne todo eso en un único lugar, con un diseño moderno y un toque de gamificación que hace que entrenar sea también un juego.
 
 **¿Para quién es?**
 * Socios del gimnasio, desde principiantes que necesitan orientación hasta usuarios avanzados que quieren medir su progreso.
